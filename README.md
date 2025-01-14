@@ -45,7 +45,7 @@ It should work with any fairly modern neovim version.
 
 ## 💻 Installation
 
-Make sure you have `posting` up and running. The in-depth installing walkthrough is perfectly described in [here]([https://github.com/darrenburns/posting]).
+Make sure you have `posting` up and running. The in-depth installing walkthrough is perfectly described in [here](https://github.com/darrenburns/posting).
 
 Install the `posting.nvim` neovim plugin with your favourite package manager:
 
