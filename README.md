@@ -24,7 +24,7 @@
 
 ## Overview
 
-`posting.nvim` is a [`posting` plugin](https://github.com/darrenburns/posting) for neovim that allows you to manage your docker environment without leaving your workspace. `posting` itself is a simple terminal UI API client like Httpie with advanced mouse support and a lot of features.
+`posting.nvim` is a [`posting` plugin](https://github.com/darrenburns/posting) for neovim that allows you testing your API directly from editor. `posting` itself is a simple terminal UI API client like Httpie with advanced mouse support and a lot of features.
 
 My work is based on `lazydocker` [plugin](https://github.com/mgierada/lazydocker.nvim), so thanks to [@mgierada](https://github.com/mgierada) for providing excellent example to build own integrations!
 
